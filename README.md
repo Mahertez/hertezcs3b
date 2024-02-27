@@ -1,4 +1,7 @@
 # Welcome to streamlit
+by: MARY GRACE HERTEZ
+
+[My streamlit APP]https://hertez-cs3b-7eee9wcw5jk.streamlit.app/
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
